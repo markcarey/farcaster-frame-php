@@ -1,2 +1,2 @@
 # farcaster-frame-php
-A bare bone Frame in PHP
+A bare bones Frame in PHP
